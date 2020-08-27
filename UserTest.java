@@ -7,6 +7,9 @@ import org.junit.Test;
 import java.util.ArrayList;
 import java.util.List;
 
+import static jUnit.Sex.MALE;
+import static jUnit.Sex.FEMALE;
+
 public class UserTest {
     private User user;
     private User user1;

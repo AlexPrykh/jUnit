@@ -1,2 +1,5 @@
-package jUnit;public class Sex {
+package jUnit;
+
+public enum Sex {
+    MALE, FEMALE;
 }
